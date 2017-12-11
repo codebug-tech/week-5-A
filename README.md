@@ -1,9 +1,10 @@
 # Intro to Javascript
-##### At the top of `script.js`
+##### In your `script.js` file
 * Look at the alert at the bottom of the `script.js` file. Take notice of the variable names. You will be assigning values to the variables used in the `alert`. Once you have all of your variables assigned correctly with the proper names and syntax, you will see this `alert`: 
 
 ![message](/images/message.png)
 
+##### In your `script.js` file
 * Make a variable for your name. Make sure your variable name matches the name of the variable in the `alert`. 
 * Make a variable for your age.
 * Make a variable for your favorite color. 
