@@ -1,7 +1,8 @@
 /////////////////////WRITE YOUR VARIABLES BELOW//////////////////////////
-
-
-
+var myName= "Ally";
+var myAge= "14";
+var myFavoriteColor="yellow";
+var myFavoriteHobby= "hiking the green belt";
 
 
 
